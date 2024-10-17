@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @eduardaemilly
 - 👀 I’m interested in aprender coisas novas 
 - 🌱 I’m currently learning a mexer com tecnologias
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me chame no instagram
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 📫 How to entrar em contato comigo me chame no instagram 
+- ⚡ Fun fact: não gosto de gente frescurenta e barraqueira
 
 <!---
 eduardaemilly/eduardaemilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
